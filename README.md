@@ -166,9 +166,3 @@ Add screenshots of:
 - Implement CI/CD using Azure DevOps
 
 ---
-
-## 🙏 Acknowledgements
-
-This project was implemented as a hands-on learning exercise inspired by the Azure Data Engineering tutorial created by **Darshil Parmar**. The implementation has been recreated and documented independently for educational and portfolio purposes.
-
----
